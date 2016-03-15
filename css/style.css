@@ -1,0 +1,61 @@
+#mes {
+  border: 1px solid-grey;
+  margin: auto;
+  width: 370px;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+
+.dia {
+  border: 1px solid grey;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  background-color: Skyblue;
+  font-size: 20px;
+  font-family: 'Slabo 27px', serif;
+}
+
+header {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+
+.spc {
+  border: 1px solid red;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Slabo 27px', serif;
+  background-color: #E8942D;
+}
+
+.off {
+  visibility: hidden;
+}
+
+.actual {
+  border: 1px solid red;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #FFAC8B;
+}
+
+body {
+  background-color: #B8FFB6;
+}
+
+.ini {
+  border: 1px solid grey;
+  width: 50px;
+  height: 20px;
+  display: inline-block;
+  background-color: #C7FFD0;
+  font-size: 20px;
+  font-family: 'Slabo 27px', serif;
+  margin-top: 20px;
+  text-align: center;
+  margin-bot: none;
+}
